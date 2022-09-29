@@ -8,7 +8,7 @@ def TablabinHex(cuatro_digitos_binarios):
     digito_hexadecimal = ""
     if cuatro_digitos_binarios == "0000":
         digito_hexadecimal = "0"
-    elif cuatro_digitos_binarios == "0001":
+    elif cuatro_digjhvos_binarios == "0001":
         digito_hexadecimal = "1"
     elif cuatro_digitos_binarios == "0010":
         digito_hexadecimal = "2"
