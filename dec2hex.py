@@ -38,7 +38,7 @@ def TablabinHex(cuatro_digitos_binarios):
         digito_hexadecimal = "E"
     elif cuatro_digitos_binarios == "1111":
         digito_hexadecimal = "F"
-    return digito_hexadecimal
+    print('marcos')
 
 def bin2hex(numero_binario):
     n = numero_binario
